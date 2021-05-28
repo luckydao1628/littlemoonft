@@ -2,24 +2,24 @@
   "tokens": [
     {
       "id": 0,
-      "description": "MOO 0 NFT",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My MOO NFT 0"
+      "description": "Ogre-MOO NFT",
+      "external_url": "https://twitter.com/DanielBokun/status/1397577017265098756",
+      "image": "https://ipfs.io/ipfs/QmavF5CsLtquYKsFj2jQ9VDa1ZA5AkP5Qv7KRECevtLw4i",
+      "name": "Ogre-MOO NFT 0"
     },
     {
       "id": 1,
-      "description": "MOO 1 NFT",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My MOO NFT 1"
+      "description": "Astro-MOO NFT",
+      "external_url": "https://twitter.com/MochamadSolih13/status/1395266556100108289",
+      "image": "https://ipfs.io/ipfs/QmWsZFqGu4HAhhZPKxmRoktb9EZL45dDpvTepZSseRAsGi",
+      "name": "Astro-MOO NFT 1"
     },
     {
       "id": 2,
-      "description": "MOO 2 NFT",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My MOO NFT 2"
+      "description": "MITM-MOO NFT",
+      "external_url": "https://sfae.com/Artists/Neal-Preston/Michael-Jackson-1989",
+      "image": "https://ipfs.io/ipfs/QmWYsqERuwRaijDwgSqeRDPiVegL3cBhVScyhET5K6J86Y",
+      "name": "MITM-MOO NFT 2"
     }
   ]
 }
