@@ -12,14 +12,16 @@
       "id": 1,
       "description": "Astro-MOO NFT",
       "external_url": "https://twitter.com/MochamadSolih13/status/1395266556100108289",
-      "image": "https://ipfs.io/ipfs/QmWsZFqGu4HAhhZPKxmRoktb9EZL45dDpvTepZSseRAsGi",
+      "image": "https://photos.google.com/search/_tra_/photo/AF1QipMl4V3I_j_-SBEEUEx5LG1gAzYdhLqe-7OXJH_q",
+      "ipfs-image": "https://ipfs.io/ipfs/QmWsZFqGu4HAhhZPKxmRoktb9EZL45dDpvTepZSseRAsGi",
       "name": "Astro-MOO NFT 1"
     },
     {
       "id": 2,
       "description": "MITM-MOO NFT",
       "external_url": "https://sfae.com/Artists/Neal-Preston/Michael-Jackson-1989",
-      "image": "https://ipfs.io/ipfs/QmWYsqERuwRaijDwgSqeRDPiVegL3cBhVScyhET5K6J86Y",
+      "image": "https://photos.google.com/search/_tra_/photo/AF1QipOy65HOrO3uksvd0XY0vNSXb08gOLSXFhNELhXO",
+      "ipfs-image": "https://ipfs.io/ipfs/QmWYsqERuwRaijDwgSqeRDPiVegL3cBhVScyhET5K6J86Y",
       "name": "MITM-MOO NFT 2"
     }
   ]
