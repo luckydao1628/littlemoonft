@@ -4,24 +4,24 @@
       "id": 0,
       "description": "Ogre-MOO NFT",
       "external_url": "https://twitter.com/DanielBokun/status/1397577017265098756",
-      "image": "https://res.cloudinary.com/cut-beard-reach/image/upload/v1622219037/moo-nft/ogre-moo_rajhhm.jpg",
-      "ipfs-image": "https://ipfs.io/ipfs/QmavF5CsLtquYKsFj2jQ9VDa1ZA5AkP5Qv7KRECevtLw4i",
+      "image-backup": "https://res.cloudinary.com/cut-beard-reach/image/upload/v1622219037/moo-nft/ogre-moo_rajhhm.jpg",
+      "hash": "QmavF5CsLtquYKsFj2jQ9VDa1ZA5AkP5Qv7KRECevtLw4i",
       "name": "Ogre-MOO NFT 0"
     },
     {
       "id": 1,
       "description": "Astro-MOO NFT",
       "external_url": "https://twitter.com/MochamadSolih13/status/1395266556100108289",
-      "image": "https://res.cloudinary.com/cut-beard-reach/image/upload/v1622219037/moo-nft/astro-moo_jtjh5t.jpg",
-      "ipfs-image": "https://ipfs.io/ipfs/QmWsZFqGu4HAhhZPKxmRoktb9EZL45dDpvTepZSseRAsGi",
+      "image-backup": "https://res.cloudinary.com/cut-beard-reach/image/upload/v1622219037/moo-nft/astro-moo_jtjh5t.jpg",
+      "hash": "QmWsZFqGu4HAhhZPKxmRoktb9EZL45dDpvTepZSseRAsGi",
       "name": "Astro-MOO NFT 1"
     },
     {
       "id": 2,
       "description": "MITM-MOO NFT",
       "external_url": "https://sfae.com/Artists/Neal-Preston/Michael-Jackson-1989",
-      "image": "https://res.cloudinary.com/cut-beard-reach/image/upload/v1622219037/moo-nft/mitm-moo_wyzrrb.jpg",
-      "ipfs-image": "https://ipfs.io/ipfs/QmWYsqERuwRaijDwgSqeRDPiVegL3cBhVScyhET5K6J86Y",
+      "image-backup": "https://res.cloudinary.com/cut-beard-reach/image/upload/v1622219037/moo-nft/mitm-moo_wyzrrb.jpg",
+      "hash": "QmWYsqERuwRaijDwgSqeRDPiVegL3cBhVScyhET5K6J86Y",
       "name": "MITM-MOO NFT 2"
     }
   ]
